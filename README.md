@@ -43,3 +43,7 @@ Thus, it is not reusable.
 All modules connected are shown in the following picture.
 
 ![4 Digits Counter](images/4-digits-counter.png)
+
+# Acknowledgement
+
+Thanks to [Daniel Paula Riesgo](https://github.com/danielaRiesgo) for participating with me in this project.
